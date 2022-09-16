@@ -16,8 +16,6 @@
     "vue-tsc": "^0.38"
   },
   "dependencies": {
-    "@sanity/client": "^3.3.6",
-    "@sanity/image-url": "^1.0.1",
-    "sanity-blocks-vue-component": "^1.0.1"
+    "spectre.css": "^0.5.9"
   }
 }
